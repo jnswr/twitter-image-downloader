@@ -1,0 +1,12 @@
+{
+  "name": "twitter-imagedl-js",
+  "version": "1.0.0",
+  "description": "a simple utility tool to download images from a specified user in Twitter",
+  "main": "twitter-imagedl.js",
+  "author": "Jesse",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "oauth-1.0a": "^2.2.6"
+  }
+}
